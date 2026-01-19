@@ -1,0 +1,26 @@
+{
+    "name": "Supabase",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll",
+        "System.Text.Json.dll",
+        "System.IdentityModel.Tokens.Jwt.dll",
+        "Websocket.Client.dll",
+        "Microsoft.IO.RecyclableMemoryStream.dll",
+        "Microsoft.IdentityModel.Tokens.dll",
+        "Microsoft.Extensions.Logging.Abstractions.dll",
+        "System.Reactive.dll",
+        "BirdMessenger.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
