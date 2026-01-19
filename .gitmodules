@@ -1,21 +1,21 @@
 [submodule "modules/gotrue-csharp"]
 	path = modules/gotrue-csharp
-	url = https://github.com/supabase-community/gotrue-csharp
+	url = git@github.com:lan-party-tech/gotrue-csharp.git
 [submodule "modules/postgrest-csharp"]
 	path = modules/postgrest-csharp
-	url = https://github.com/supabase-community/postgrest-csharp
+	url = git@github.com:lan-party-tech/postgrest-csharp.git
 [submodule "modules/realtime-csharp"]
 	path = modules/realtime-csharp
-	url = https://github.com/supabase-community/realtime-csharp
+	url = git@github.com:lan-party-tech/realtime-csharp.git
 [submodule "modules/storage-csharp"]
 	path = modules/storage-csharp
-	url = https://github.com/supabase-community/storage-csharp
+	url = git@github.com:lan-party-tech/storage-csharp.git
 [submodule "modules/functions-csharp"]
 	path = modules/functions-csharp
-	url = https://github.com/supabase-community/functions-csharp
+	url = git@github.com:lan-party-tech/functions-csharp.git
 [submodule "modules/core-csharp"]
 	path = modules/core-csharp
-	url = git@github.com:supabase-community/core-csharp.git
+	url = git@github.com:lan-party-tech/core-csharp.git
 [submodule "Documentation"]
 	path = Documentation
 	url = git@github.com:supabase-community/supabase-csharp.wiki.git
