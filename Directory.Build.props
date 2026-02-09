@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <SupabaseMsbuildCacheDir>$(MSBuildThisFileDirectory)../../../.cache/supabase-msbuild/</SupabaseMsbuildCacheDir>
+    <BaseIntermediateOutputPath>$(SupabaseMsbuildCacheDir)obj/$(MSBuildProjectName)/</BaseIntermediateOutputPath>
+    <BaseOutputPath>$(SupabaseMsbuildCacheDir)bin/$(MSBuildProjectName)/</BaseOutputPath>
+  </PropertyGroup>
+</Project>
