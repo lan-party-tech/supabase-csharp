@@ -29,7 +29,7 @@ jobs:
           version: latest
 
       - name: Start supabase
-        run: supabase start
+        run: supabase start --workdir .supabase-workdir
         
       - name: Restore dependencies
         run: dotnet restore
