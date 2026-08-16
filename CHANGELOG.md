@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.2.0](https://github.com/lan-party-tech/supabase-csharp/compare/v1.1.2...v1.2.0) (2026-08-16)
+
+
+### Features
+
+* add dependabot ([#202](https://github.com/lan-party-tech/supabase-csharp/issues/202)) ([e04cc98](https://github.com/lan-party-tech/supabase-csharp/commit/e04cc988b45c1d8ab29bbab41a5aac3c19877e81))
+
+
+### Bug Fixes
+
+* 14 - Update gotrue-csharp@2.3.0 ([183a30f](https://github.com/lan-party-tech/supabase-csharp/commit/183a30f6c879edbe1001bb750878edc185257ccd))
+* 5 ([1d30b7b](https://github.com/lan-party-tech/supabase-csharp/commit/1d30b7bbf953be8e9f34a2cbfee3f2257c084001))
+* **unity:** hide Supabase CLI workdir from asset import ([f520beb](https://github.com/lan-party-tech/supabase-csharp/commit/f520beb97f24dd4d058161b7aa66fc4d836a3ee0))
+
 ## [1.1.2](https://github.com/supabase-community/supabase-csharp/compare/v1.1.1...v1.1.2) (2025-07-07)
 
 
