@@ -13820,6 +13820,19 @@ references:
   isSpec: "True"
   fullName: Supabase.Realtime.Channel.Push.AddMessageReceivedHandler
   nameWithType: Push.AddMessageReceivedHandler
+- uid: Supabase.Realtime.Channel.Push.Cancel
+  name: Cancel()
+  href: api/Supabase.Realtime.Channel.Push.html#Supabase_Realtime_Channel_Push_Cancel
+  commentId: M:Supabase.Realtime.Channel.Push.Cancel
+  fullName: Supabase.Realtime.Channel.Push.Cancel()
+  nameWithType: Push.Cancel()
+- uid: Supabase.Realtime.Channel.Push.Cancel*
+  name: Cancel
+  href: api/Supabase.Realtime.Channel.Push.html#Supabase_Realtime_Channel_Push_Cancel_
+  commentId: Overload:Supabase.Realtime.Channel.Push.Cancel
+  isSpec: "True"
+  fullName: Supabase.Realtime.Channel.Push.Cancel
+  nameWithType: Push.Cancel
 - uid: Supabase.Realtime.Channel.Push.Channel
   name: Channel
   href: api/Supabase.Realtime.Channel.Push.html#Supabase_Realtime_Channel_Push_Channel
